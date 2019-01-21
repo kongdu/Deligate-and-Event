@@ -4,3 +4,10 @@ C:\Users\박광숙\Desktop\ch13\DelegateChains\bin\Debug\DelegateChains.pdb
 C:\Users\박광숙\Desktop\ch13\DelegateChains\obj\Debug\DelegateChains.csproj.CoreCompileInputs.cache
 C:\Users\박광숙\Desktop\ch13\DelegateChains\obj\Debug\DelegateChains.exe
 C:\Users\박광숙\Desktop\ch13\DelegateChains\obj\Debug\DelegateChains.pdb
+C:\Users\Administrator\Documents\GitHub\Deligate-and-Event\DelegateChains\bin\Debug\DelegateChains.exe.config
+C:\Users\Administrator\Documents\GitHub\Deligate-and-Event\DelegateChains\bin\Debug\DelegateChains.exe
+C:\Users\Administrator\Documents\GitHub\Deligate-and-Event\DelegateChains\bin\Debug\DelegateChains.pdb
+C:\Users\Administrator\Documents\GitHub\Deligate-and-Event\DelegateChains\obj\Debug\DelegateChains.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Deligate-and-Event\DelegateChains\obj\Debug\DelegateChains.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Deligate-and-Event\DelegateChains\obj\Debug\DelegateChains.exe
+C:\Users\Administrator\Documents\GitHub\Deligate-and-Event\DelegateChains\obj\Debug\DelegateChains.pdb

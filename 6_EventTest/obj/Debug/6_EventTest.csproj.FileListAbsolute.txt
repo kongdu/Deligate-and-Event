@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\Deligate-and-Event\6_EventTest\bin\Debug\6_EventTest.exe.config
+C:\Users\Administrator\Documents\GitHub\Deligate-and-Event\6_EventTest\bin\Debug\6_EventTest.exe
+C:\Users\Administrator\Documents\GitHub\Deligate-and-Event\6_EventTest\bin\Debug\6_EventTest.pdb
+C:\Users\Administrator\Documents\GitHub\Deligate-and-Event\6_EventTest\obj\Debug\6_EventTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Deligate-and-Event\6_EventTest\obj\Debug\6_EventTest.exe
+C:\Users\Administrator\Documents\GitHub\Deligate-and-Event\6_EventTest\obj\Debug\6_EventTest.pdb
+C:\Users\Administrator\Documents\GitHub\Deligate-and-Event\6_EventTest\obj\Debug\6_EventTest.csprojAssemblyReference.cache
